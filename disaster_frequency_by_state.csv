@@ -1,0 +1,52 @@
+Fire,Flood,Hurricane,Severe_storm,Snow,Tornado,state,Total
+9,10,16,36,1,6,Alabama,78
+10,10,0,16,1,0,Alaska,37
+39,13,1,9,0,0,Arizona,62
+0,17,2,27,1,15,Arkansas,62
+183,34,1,9,0,0,California,227
+57,13,0,3,3,1,Colorado,77
+0,3,10,8,8,2,Connecticut,31
+0,2,8,4,5,0,Deleware,19
+0,0,6,9,3,0,District of Columbia,18
+42,13,34,22,0,1,Florida,112
+11,9,8,14,1,12,Georgia,55
+15,9,2,7,0,0,Hawaii,33
+16,12,1,7,1,0,Idaho,37
+0,15,1,24,7,10,Illinois,57
+0,12,1,24,6,4,Indiana,47
+0,27,1,25,2,4,Iowa,59
+4,13,1,33,1,6,Kansas,58
+8,22,1,29,5,5,Kentucky,70
+1,26,23,14,2,4,Louisiana,70
+0,13,5,21,12,0,Maine,51
+0,9,8,7,7,1,Maryland,32
+3,7,10,11,8,2,Massachusetts,41
+1,11,1,8,5,6,Michigan,32
+2,25,1,24,1,3,Minnesota,56
+0,10,15,29,1,11,Mississippi,66
+1,21,1,33,0,5,Missouri,61
+34,10,1,12,1,1,Montana,59
+5,18,1,27,1,5,Nebraska,57
+47,10,1,5,2,0,Nevada,65
+2,10,6,18,7,0,New Hampshire,43
+3,8,9,17,6,0,New Jersey,43
+49,18,1,10,0,0,New Mexico,78
+2,23,12,27,19,1,New York,84
+4,8,25,8,4,4,North Carolina,53
+1,27,0,20,3,3,North Dakota,54
+0,15,2,24,4,6,Ohio,51
+84,22,1,39,1,10,Oklahoma,157
+40,14,0,13,0,0,Oregon,67
+0,26,8,16,5,2,Pennsylvania,57
+0,0,9,5,6,0,Rhode Island,20
+4,3,11,3,0,1,South Carolina,22
+13,16,0,24,4,0,South Dakota,57
+11,17,1,31,1,4,Tennessee,65
+154,36,20,20,0,15,Texas,245
+18,8,0,2,0,1,Utah,29
+0,15,2,21,1,0,Vermont,39
+8,15,13,17,6,0,Virginia,59
+78,28,0,16,0,0,Washington,122
+3,29,5,23,4,0,West Virginia,64
+0,15,1,19,4,6,Wisconsin,45
+18,5,0,2,0,2,Wyoming,27
